@@ -1,5 +1,5 @@
 # In-Class 1 v3
 
 ## Team
-- Saurav Annepu (sannepu1) - built the In-Class 01b tabs app, wrote answers 1-4
-- Augustine Kamamba (Akabamba24) - wrote answer 5, reviewed the pull request
+- Saurav Annepu (sannepu1) - built the  tabs app and also did the answers 1-4 part
+- Augustine Kamamba (Akabamba24) - wrote answer 5 and reviewed the pull request part
